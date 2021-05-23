@@ -20,7 +20,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "cd explore_the_stars && npm start"
   },
   "eslintConfig": {
     "extends": [
